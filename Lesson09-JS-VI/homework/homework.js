@@ -2,7 +2,7 @@
 
 function invokeCallback(cb) {
   // invoke cb
-  
+  return "Hi" + cb;
 }
 
 function sumArray(numbers, cb) {
